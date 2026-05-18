@@ -13,7 +13,7 @@ Security tooling and backend developer.
 
 ### [OpenDoor](https://github.com/stanislav-web/OpenDoor)
 
-OpenDoor is a terminal-based scanner for directory discovery, subdomain enumeration, WAF detection, response analysis, and security-oriented web asset reconnaissance.
+OpenDoor is a modern web recon platform for directory discovery, subdomain enumeration, WAF detection, response analysis, and security-oriented web asset reconnaissance.
 
 Current work focuses on:
 
